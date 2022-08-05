@@ -1,6 +1,6 @@
-botSubDomain=jbdiabtn.nikheel.works
-botName=jbdiabtn
-projectPrefix=jbdiabtn
-azureLocation=centralus
-acrName=jbdiabtnacr
+botSubDomain=recobot.recosenselabs.com
+botName=RecoTeamsApp
+projectPrefix=teamsbotreco
+azureLocation=centralindia
+acrName=teamsbotrecoacr
 
